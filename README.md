@@ -1,12 +1,20 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110"/>
+</p>
+
 <!-- Header -->
 <h1 align="center">Hey there, I'm Garvit Chourasia 👋</h1>
 
 <p align="center">
-  <!-- <a href="https://garvitchourasia.com"><img src="https://img.shields.io/badge/Website-garvitchourasia.com-blue?style=flat-square&logo=google-chrome"></a> -->
-  <a href="mailto:gbgarvit78@gmail.com"><img src="https://img.shields.io/badge/Email-gbgarvit78@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/garvit-chourasia-8a3b90290"><img src="https://img.shields.io/badge/LinkedIn-Garvit Chourasia-blue?style=flat-square&logo=linkedin"></a>
-  <!-- <a href="https://twitter.com/garvit_dev"><img src="https://img.shields.io/twitter/follow/garvit_dev?style=flat-square&logo=twitter"></a> -->
-  <!-- <a href="https://instagram.com/garvitig"><img src="https://img.shields.io/badge/Instagram-garvitig-purple?style=flat-square&logo=instagram"></a> -->
+  <a href="https://linkedin.com/in/garvit-chourasia-8a3b90290/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gbgarvit78@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF3D3D?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/garvit_14/">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 <!-- About Me -->
